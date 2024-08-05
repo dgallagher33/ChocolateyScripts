@@ -1,0 +1,1 @@
+Scripts I use to reinstall and update software via Chocolatey. Scripts must be run as admin.
